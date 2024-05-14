@@ -1,6 +1,8 @@
 public class MinhaClasse {
     public static void main(String[] args) {
         final String BR ="Brasil";
+        int ano = 2000;
+        ano =2002;
  }       
 }
 //todos os nomes de classes começam com maiuscula 
