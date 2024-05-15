@@ -9,3 +9,4 @@ public class BoletinInfantil {
         System.out.println("APROVADO"); 		
         }
 }
+//codigo sem identação gera uma ma leitura do cogigo 
