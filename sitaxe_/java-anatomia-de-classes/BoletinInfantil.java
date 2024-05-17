@@ -10,19 +10,6 @@ public class BoletinInfantil{
 	}
 }
 
-//uso de identação  
-
-
-
-
-
-
-
-
-
-
-
-
 
 /*public class BoletinInfantil {
      public static void main(String[] args) {
