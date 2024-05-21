@@ -1,3 +1,4 @@
+package src.basico;
 public class BoletinInfantil{
 	public static void main(String[] args) {
 		int mediaFinal = 6;
